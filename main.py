@@ -2,4 +2,4 @@
 def howLong(w):
     print(len(w))
 
-howLong("coolsdfa")
+howLong("peanut butter")
